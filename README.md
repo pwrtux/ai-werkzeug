@@ -23,6 +23,7 @@ Clone the repository:
 ```
 git clone https://github.com/pwrtux/ai-werkzeug
 cd ai-werkzeug
+pip install -r requirements
 ```
 
 #### Usage
